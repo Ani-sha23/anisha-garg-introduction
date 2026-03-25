@@ -7,7 +7,7 @@ This repository contains my **professional self-introduction video**, highlighti
 
 ## Video
 
-👉 *(https://drive.google.com/drive/folders/1vRVvJQtWHo_mdQGT64f8V5qyXYVTkwlg?usp=drive_link)*  
+👉 *(https://drive.google.com/file/d/1FChaV75u2cQ2TimPF_NHZxp-0b84zWfT/view?usp=drive_link)*  
 
 ---
 
