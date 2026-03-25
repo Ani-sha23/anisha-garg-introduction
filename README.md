@@ -1,10 +1,16 @@
 # Self Introduction | Anisha Garg
 
 Hi, I’m **Anisha Garg**, a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at VIT Bhopal.
-
 This repository contains my **professional self-introduction video**, highlighting my technical skills, projects, and career interests in **Software Engineering and Machine Learning**.
 
 ---
+
+## Video
+
+👉 *(https://drive.google.com/file/d/1Arg176nlbb_dwfgpVn19MrSpDYKGk1d9/view?usp=sharing)*  
+
+---
+
 
 ## About Me
 
@@ -45,12 +51,6 @@ I am actively seeking opportunities as:
 - Machine Learning Engineer  
 
 I aim to contribute to impactful products while continuously learning and growing.
-
----
-
-## Video
-
-👉 *(Add your video link here after uploading)*  
 
 ---
 
